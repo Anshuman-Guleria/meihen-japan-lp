@@ -1,0 +1,6 @@
+{
+  "name": "メイヘン 相続実家の名義変更サポート",
+  "description": "相続した実家の名義変更・売却・引き取りを一括サポートする「メイヘン」のレスポンシブなホームページ、資料請求フォーム、およびサンクスページです。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
